@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-notification": "^6.8.5",
+    "utils": "^0.3.1"
+  }
+}
